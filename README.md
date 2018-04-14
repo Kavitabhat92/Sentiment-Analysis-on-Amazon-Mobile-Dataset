@@ -1,4 +1,4 @@
-# Amazon Mobile Recommendation System
+## Amazon Mobile Recommendation System
 
 Repository containing the academic project for the course Statistics and Machine Learning. Presented in the form of iPython Notebooks.
 
@@ -14,3 +14,7 @@ Amazon.com is a treasure trove of product reviews and their review system is acc
   
 _Tools: Pandas,Seaborn,Scikit, Natural Language Processing(SentimentIntensityAnalyser) and Matplotlib_
 
+## Installation Requirements:
+
+- ### NLTK toolkit download
+	- https://www.nltk.org/data.html
