@@ -8,8 +8,8 @@ Amazon.com is a treasure trove of product reviews and their review system is acc
 
 - ### Data Analysis and Visualisation
   - __Python__
-  - [Amazon Mobile Recommendation System](https://github.com/Kavitabhat92/Amazon-Mobile-Recommendation-
-  System/blob/master/Recommender%20System%20for%20Amazon%20Dataset.ipynb): 
+  - [Amazon Mobile Recommendation System]
+  (https://github.com/Kavitabhat92/Amazon-Mobile-Recommendation-System/blob/master/Recommender%20System%20for%20Amazon%20Dataset.ipynb): 
   Exploratory Data Analysis and Machine Learning algorithm of Natural Language Processing (NLTK)  to recommend the best of the mobile phones with respect to reviews, ratings and brands in the dataset. 
   
 _Tools: Pandas,Seaborn,Scikit, Natural Language Processing(SentimentIntensityAnalyser) and Matplotlib_
