@@ -1,0 +1,15 @@
+Context:
+The dataset contains approx. 400,000 reviews of unlocked mobile phones sold on Amazon.com to find out insights with respect to reviews, ratings, price and their relationships.
+
+Data:
+Following fields are available in this dataset:
+
+Product Title
+Brand name
+Price
+Rating
+Review text
+Review Votes
+
+
+Data was extracted in December, 2016 from the unlocked mobile category of Amazon.com.
